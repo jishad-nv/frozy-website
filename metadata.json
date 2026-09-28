@@ -1,0 +1,6 @@
+{
+  "name": "FROZY - Premium Indian Ice Cream",
+  "description": "FROZY is a modern, premium, playful Indian ice cream brand. Crafted with real cream, luscious fruits, and pure indulgence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

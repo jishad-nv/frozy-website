@@ -1,0 +1,275 @@
+{
+  "admin": {
+    "email": "admin@frozyicecream.in",
+    "passwordHash": "frozyadmin2026",
+    "name": "FROZY Master Admin"
+  },
+  "settings": {
+    "brandName": "FROZY",
+    "tagline": "Sweetness in every swirl",
+    "phone": "+91 98450 78921",
+    "email": "namaste@frozyicecream.in",
+    "address": "100 Feet Road, Indiranagar, Bengaluru 560038",
+    "deliveryCharge": 49,
+    "freeDeliveryThreshold": 499,
+    "storeOpen": true
+  },
+  "products": [
+    {
+      "id": "pink-velvet",
+      "name": "Pink Velvet",
+      "slug": "pink-velvet",
+      "flavour": "Strawberry & Velvet Cake",
+      "subtitle": "Signature strawberry & velvet cake cream",
+      "headline": "Sweetness in Pink.",
+      "description": "Creamy strawberry goodness made for happy cravings.",
+      "shortDescription": "Creamy strawberry goodness made for happy cravings.",
+      "price": 199,
+      "discountPrice": 179,
+      "stock": 25,
+      "category": "signature",
+      "image": "/images/products/ChatGPT Image Sep 28, 2026, 01_17_29 PM.png",
+      "active": true,
+      "featured": true,
+      "rating": 4.9,
+      "calories": "210 kcal / serving",
+      "netCarbs": "12g",
+      "protein": "6g",
+      "fat": "7g",
+      "story": "Crafted with ripe Mahabaleshwar strawberries and fresh churned malai dairy.",
+      "ingredients": [
+        "Fresh Dairy Cream",
+        "Mahabaleshwar Strawberries",
+        "Velvet Cake Crumbs",
+        "Cane Sugar",
+        "Natural Beetroot Extract"
+      ]
+    },
+    {
+      "id": "berry-bliss",
+      "name": "Berry Bliss",
+      "slug": "berry-bliss",
+      "flavour": "Himalayan Wild Berries",
+      "subtitle": "Wild raspberry & blackberry swirl",
+      "headline": "Berry bliss in every creamy bite.",
+      "description": "Wild Himalayan berries folded into sweet vanilla cream.",
+      "shortDescription": "Wild Himalayan berries folded into sweet vanilla cream.",
+      "price": 229,
+      "discountPrice": 209,
+      "stock": 20,
+      "category": "fruit",
+      "image": "/images/products/ChatGPT Image Sep 28, 2026, 01_21_30 PM.png",
+      "active": true,
+      "featured": true,
+      "rating": 5,
+      "calories": "195 kcal / serving",
+      "netCarbs": "10g",
+      "protein": "5g",
+      "fat": "6g",
+      "story": "Handcrafted with slow-simmered wild berry compote and whole milk.",
+      "ingredients": [
+        "Pure Dairy Cream",
+        "Wild Raspberries",
+        "Blackberries",
+        "Vanilla Pods",
+        "Citrus Pectin"
+      ]
+    },
+    {
+      "id": "belgian-choco-melt",
+      "name": "Belgian Choco Melt",
+      "slug": "belgian-choco-melt",
+      "flavour": "Belgian Dark Fudge",
+      "subtitle": "Decadent dark fudge & cocoa curls",
+      "headline": "Rich chocolate. Pure indulgence.",
+      "description": "Single-origin 70% dark Belgian fudge in every scoop.",
+      "shortDescription": "Single-origin 70% dark Belgian fudge in every scoop.",
+      "price": 249,
+      "discountPrice": 229,
+      "stock": 18,
+      "category": "indulgent",
+      "image": "/images/products/ChatGPT Image Sep 28, 2026, 01_20_01 PM.png",
+      "active": true,
+      "featured": true,
+      "rating": 4.9,
+      "calories": "240 kcal / serving",
+      "netCarbs": "15g",
+      "protein": "7g",
+      "fat": "9g",
+      "story": "Imported Belgian cocoa solids melted gently with fresh cream and studded with crunchy chocolate curls.",
+      "ingredients": [
+        "Dark Belgian Chocolate 70%",
+        "Dutch Cocoa Solids",
+        "Fresh Cream",
+        "Chocolate Ganache Ribbons",
+        "Sea Salt"
+      ]
+    },
+    {
+      "id": "mango-sunshine",
+      "name": "Mango Sunshine",
+      "slug": "mango-sunshine",
+      "flavour": "Ratnagiri Alphonso",
+      "subtitle": "Ratnagiri Alphonso mango swirl",
+      "headline": "A little taste of summer.",
+      "description": "Real Ratnagiri Alphonso mango in golden cream.",
+      "shortDescription": "Real Ratnagiri Alphonso mango in golden cream.",
+      "price": 199,
+      "discountPrice": 179,
+      "stock": 30,
+      "category": "fruit",
+      "image": "/images/products/ChatGPT Image Sep 28, 2026, 01_22_56 PM.png",
+      "active": true,
+      "featured": true,
+      "rating": 4.9,
+      "calories": "205 kcal / serving",
+      "netCarbs": "14g",
+      "protein": "5g",
+      "fat": "6g",
+      "story": "Tree-ripened GI-tagged Alphonso mangoes sourced directly from seaside Konkan orchards.",
+      "ingredients": [
+        "Alphonso Mango Pulp",
+        "Whole Dairy Milk",
+        "Sweet Cream",
+        "Mango Fruit Chunks",
+        "Cardamom Essence"
+      ]
+    },
+    {
+      "id": "pistachio-dream",
+      "name": "Pistachio Dream",
+      "slug": "pistachio-dream",
+      "flavour": "Iranian Pista & Saffron",
+      "subtitle": "Roasted Iranian pista & saffron malai",
+      "headline": "Smooth, nutty and dreamy.",
+      "description": "Roasted Iranian pista with royal saffron malai.",
+      "shortDescription": "Roasted Iranian pista with royal saffron malai.",
+      "price": 249,
+      "discountPrice": 229,
+      "stock": 15,
+      "category": "signature",
+      "image": "/images/products/ChatGPT Image Sep 28, 2026, 01_23_31 PM.png",
+      "active": true,
+      "featured": true,
+      "rating": 5,
+      "calories": "225 kcal / serving",
+      "netCarbs": "11g",
+      "protein": "8g",
+      "fat": "9g",
+      "story": "Toasted pistachios ground into nut butter and folded into reduced malai milk with Kashmiri saffron.",
+      "ingredients": [
+        "Roasted Pistachios",
+        "Reduced Malai Milk",
+        "Kashmiri Saffron",
+        "Green Cardamom",
+        "Sweet Cream"
+      ]
+    },
+    {
+      "id": "cookie-crunch",
+      "name": "Cookie Crunch",
+      "slug": "cookie-crunch",
+      "flavour": "Cookies & Cream",
+      "subtitle": "Crunchy chocolate cookie crumble cream",
+      "headline": "Crunch into happiness.",
+      "description": "Rich vanilla cream folded with dark chocolate cookies.",
+      "shortDescription": "Rich vanilla cream folded with dark chocolate cookies.",
+      "price": 219,
+      "discountPrice": 199,
+      "stock": 22,
+      "category": "indulgent",
+      "image": "/images/products/ChatGPT Image Sep 28, 2026, 01_24_19 PM.png",
+      "active": true,
+      "featured": true,
+      "rating": 4.9,
+      "calories": "230 kcal / serving",
+      "netCarbs": "15g",
+      "protein": "6g",
+      "fat": "8g",
+      "story": "Loaded with real chocolate wafer cookies crushed into sweet malai cream.",
+      "ingredients": [
+        "Fresh Dairy Cream",
+        "Crushed Chocolate Cookies",
+        "Vanilla Pods",
+        "Cane Sugar",
+        "Sea Salt"
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": "FRZ-89214",
+      "customerName": "Ananya Sharma",
+      "email": "ananya@example.com",
+      "phone": "+91 98214 55678",
+      "address": "Bandra West, Pali Hill",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400050",
+      "items": [
+        {
+          "id": "pink-velvet",
+          "name": "Pink Velvet",
+          "price": 199,
+          "quantity": 2,
+          "image": "/images/products/ChatGPT Image Sep 28, 2026, 01_17_29 PM.png"
+        }
+      ],
+      "total": 447,
+      "paymentMethod": "UPI",
+      "paymentStatus": "Paid",
+      "orderStatus": "Delivered",
+      "createdAt": "2026-09-26T17:28:34.727Z",
+      "timeline": [
+        {
+          "status": "Order Placed",
+          "time": "2 days ago",
+          "completed": true
+        },
+        {
+          "status": "Confirmed",
+          "time": "2 days ago",
+          "completed": true
+        },
+        {
+          "status": "Processing",
+          "time": "2 days ago",
+          "completed": true
+        },
+        {
+          "status": "Out for Delivery",
+          "time": "Yesterday",
+          "completed": true
+        },
+        {
+          "status": "Delivered",
+          "time": "Yesterday",
+          "completed": true
+        }
+      ]
+    }
+  ],
+  "customers": [
+    {
+      "id": "cust-1",
+      "name": "Ananya Sharma",
+      "email": "ananya@example.com",
+      "phone": "+91 98214 55678",
+      "city": "Mumbai",
+      "ordersCount": 3,
+      "totalSpent": 1450,
+      "createdAt": "2026-09-18T17:28:34.728Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "author": "Ananya Sharma",
+      "role": "Food Blogger",
+      "rating": 5,
+      "quote": "FROZY Pink Velvet is genuinely unmatched.",
+      "location": "Bandra, Mumbai",
+      "date": "2026-09-25"
+    }
+  ]
+}
